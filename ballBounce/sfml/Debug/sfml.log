@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(116,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(55): message : see reference to function template instantiation 'std::pair<const int,float>::pair<int,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+C:\Users\khali\source\repos\sfml\sfml\main.cpp(41): message : see reference to function template instantiation 'std::pair<const int,float>::pair<int,int,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int,
+              _Other2=int
+          ]
+  sfml.vcxproj -> C:\Users\khali\source\repos\sfml\Debug\sfml.exe
